@@ -81,6 +81,11 @@ I've basically made this web-extension for myself, and then decided to share it 
 <pre>
 Developer's HUB / Changelog
 
+2.1.5.202
++ adding support for 'i*.wp.com/...' cache-links.
++ fixing regex match amp-project.
++ adding 'i*.wp.com' (wordpress-cache) and amp-project links to raw background-request-filter ('background_request_manipulation.js').
+
 2.1.5.201
 + adding support for AmpProject-redirects (when used as a WordPress plug-in), bringing back the original URL.
 * some code-changes in the particle-extraction for the URL, adding support for non-decoding end-componenet, supporting redirect that uses the page URL as a suffix (A.pathname) instead of an argument (A.search), but still falling back to default-decodeURIComponent (way it was used until now..).
