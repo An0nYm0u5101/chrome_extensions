@@ -81,6 +81,9 @@ I've basically made this web-extension for myself, and then decided to share it 
 <pre>
 Developer's HUB / Changelog
 
+2.1.5.203
++ adding support for 'cdn.embedly.com/...&url=___' which is an IFRAME service commonly used in reddit.
+
 2.1.5.202
 + adding support for 'i*.wp.com/...' cache-links.
 + fixing regex match amp-project.
