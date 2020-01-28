@@ -81,6 +81,11 @@ I've basically made this web-extension for myself, and then decided to share it 
 <pre>
 Developer's HUB / Changelog
 
+2.1.5.204
++ adding support for stripping real links from common-vBulletin-redirector-simple-PHP-plugin - '/redirector.php?url=___' .
++ adding support for stripping real links from anonym.es links.
++ including above added-support to background-resolver as well.
+
 2.1.5.203
 + adding support for 'cdn.embedly.com/...&url=___' which is an IFRAME service commonly used in reddit.
 
