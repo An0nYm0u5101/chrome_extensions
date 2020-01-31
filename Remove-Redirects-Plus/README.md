@@ -81,6 +81,10 @@ I've basically made this web-extension for myself, and then decided to share it 
 <pre>
 Developer's HUB / Changelog
 
+2.1.5.205
++ adding support for generic Google redirect: google.___/url___url=____ .
++ adding support for CloudflareApps redirect: /go/?http___ .
+
 2.1.5.204
 + adding support for stripping real links from common-vBulletin-redirector-simple-PHP-plugin - '/redirector.php?url=___' .
 + adding support for stripping real links from anonym.es links.
